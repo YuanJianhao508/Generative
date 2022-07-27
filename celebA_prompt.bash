@@ -1,0 +1,1 @@
+python3 prompt.py --dataset="celebA" --basedir="/datasets/jianhaoy/celebA/img_align_celeba" --outputdir="/datasets/jianhaoy/celebA/img_align_celeba/interventionOutput/interventionMetadata"

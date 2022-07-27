@@ -1,0 +1,1 @@
+python3 prompt.py --dataset="waterbird" --basedir="/datasets/jianhaoy/waterbird" --outputdir="/datasets/jianhaoy/waterbird/interventionOutput/interventionMetadata"
