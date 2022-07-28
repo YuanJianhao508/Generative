@@ -1,4 +1,4 @@
-Waterbird Directory:
+Waterbird Directory: https://drive.google.com/file/d/1yO3uymEvQ3H97JBruyA4oSYIPV0UKTNb/view?usp=sharing
 
 ├── 001.Black_footed_Albatross
 ├── 002.Laysan_Albatross
